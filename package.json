@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "hexo-cli": "^1.0.3"
+  },
+  "scripts": {
+    "build": "hexo g"
   }
 }
